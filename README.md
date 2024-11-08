@@ -1,14 +1,12 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Imagem temática com meu nome gerada por IA" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="hannah.JPG" width= "700">
+ <source media="(prefers-color-scheme: light)" srcset="hannah2.jpeg">
+ <img alt="Imagem temática com meu nome gerada por IA" src="hannah2.jpeg">
 </picture>
 
-## Hi there 👋
+## Olá 👋
 
-**HannahVie/HannahVie**
-
-Um pouco sobre mim:
+**Um pouco sobre mim:**
 
 - 👩🏽 Tenho 27 anos
 - 🦕 Comecei a programar com Cobol
