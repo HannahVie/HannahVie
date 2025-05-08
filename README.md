@@ -1,8 +1,8 @@
 <picture>
  text-align: center
- <source media="(prefers-color-scheme: dark)" srcset="Hannah1.png">
+ <source media="(prefers-color-scheme: dark)" srcset="me.jpeg">
  <source media="(prefers-color-scheme: light)" srcset="hannah2.jpeg">
- <img alt="Imagem temática com meu nome gerada por IA" src="hannah2.jpeg">
+ <img alt="Imagem temática com meu nome gerada por IA" src="me.jpeg">
 </picture>
 
 ## Olá Githubers!👋
