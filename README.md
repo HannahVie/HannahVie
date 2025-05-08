@@ -13,12 +13,12 @@
 - 🌱 Estou me aventurando em desenvolvimento FullStack e Cibersegurança  
 - 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/hannah-vieira-brito/)
 
+## GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannahVie&show_icons=true&theme=dracula)
+
 </td>
 </tr>
 </table>
 
 ---
-
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HannahVie&show_icons=true&theme=dracula)
