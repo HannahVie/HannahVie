@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td width="300px">
-  <img src="me.jpeg" alt="Imagem temática com meu nome gerada por IA" width="300px" style="border-radius: 8px;" />
+<td width="400px">
+  <img src="me.jpeg" alt="Imagem temática com meu nome gerada por IA" width="400px" style="border-radius: 8px;" />
 </td>
 <td>
 
